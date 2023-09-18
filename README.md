@@ -4,7 +4,7 @@ UNSW 23T2
 Assignment1 LZW Encoding & Decoding
 Assignment2 BWT Backward Search
 
-Course Schedule
+## Course Schedule
 1  Introduction, basic information theory, basic compression
 2  More basic compression algorithms
 3  Adaptive Huffman; Overview of BWT
