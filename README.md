@@ -40,7 +40,7 @@ Make sure to replace originalFile, encodedFile, and decodedFile with the appropr
 
 Assignment 2 involves BWT (Burrows-Wheeler Transform) backward search. BWT is a data transformation technique commonly used in data compression and indexing.
 
-Compilation:
+### Instructions
 To compile the BWT search program, you can use the provided Makefile. Simply run:
 ```
 make
