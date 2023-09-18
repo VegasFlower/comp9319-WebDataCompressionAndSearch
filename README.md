@@ -21,15 +21,18 @@ To compile the LZW encoder and decoder, use the following commands:
 ```shell
 gcc -o lencode lencode.c
 gcc -o ldecode ldecode.c
-
+```
 Usage:
 To encode a file, run the following command:
+```shell
 ./lencode originalFile encodedFile
+```
 To decode an encoded file, use the following command:
+```shell
 ./ldecode encodedFile decodedFile
-
+```
 Make sure to replace originalFile, encodedFile, and decodedFile with the appropriate file names.
-'''
+
 
 ## Assignment 2: BWT Backward Search
 
@@ -39,14 +42,16 @@ Assignment 2 involves BWT (Burrows-Wheeler Transform) backward search. BWT is a 
 
 Compilation:
 To compile the BWT search program, you can use the provided Makefile. Simply run:
+```
 make
-
+```
 Usage:
 To perform a BWT backward search, follow these steps:
 
 Run the BWT search program with the following command:
+```
 ./bwtsearch inputFile.rlb indexFile.rlb 'searchingString'
-
+```
 Replace inputFile.rlb, indexFile.rlb, and 'searchingString' with your specific input file, index file, and the string you want to search for.
 
 The program will generate an index file.
