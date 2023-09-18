@@ -53,11 +53,11 @@ To perform a BWT backward search, follow these steps:
 
 Run the BWT search program with the following command:
 ```
-./bwtsearch inputFile.rlb indexFile.rlb 'searchingString'
+./bwtsearch inputFile.rlb indexFile.idx 'searchingString'
 ```
-Replace inputFile.rlb, indexFile.rlb, and 'searchingString' with your specific input file, index file, and the string you want to search for.
+Replace inputFile.rlb, indexFile.idx, and 'searchingString' with your specific input file, index file, and the string you want to search for.
 
-The program will generate an index file.
+The program will generate an index file if it doesn't exist.
 
 You can then use this index file to complete the backward searching on the specified string.
 
