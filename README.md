@@ -11,12 +11,7 @@ UNSW 23T2
 - **Week 8:** XML overview; XML compression
 - **Week 9:** Graph compression; Distributed Web query processing
 - **Week 10:** Optional advanced topics; Course Revision
-
-## Assignment 1: LZW Encoding & Decoding
-This assignment focuses on LZW encoding and decoding.
-## Assignment 2: BWT Backward Search
-In Assignment 2, you'll be working on BWT backward search.
-
+- 
 
 ## Assignment 1: LZW Encoding & Decoding
 
