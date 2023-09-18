@@ -6,18 +6,7 @@
  
  Assignment2 BWT Backward Search
 
- Course Schedule
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Week	                        Lectures
+  Course Schedule
   1	        Introduction, basic information theory, basic compression	
   2	        More basic compression algorithms	
   3	        Adaptive Huffman; Overview of BWT
